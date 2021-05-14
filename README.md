@@ -11,3 +11,6 @@ WASM的介绍在[这里](https://webassembly.org/)，可以在浏览器里执行
 ## 3.3 VUE 3.X
 ## 3.4 Elelment-Plus V1.X 
 # 4 界面
+![image](https://github.com/alyen028/audioTranscoder/blob/main/demo1.jpg)
+![image](https://github.com/alyen028/audioTranscoder/blob/main/demo2.jpg)
+![image](https://github.com/alyen028/audioTranscoder/blob/main/demo3.jpg)
