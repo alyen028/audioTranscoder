@@ -14,5 +14,5 @@ WASM的介绍在[这里](https://webassembly.org/)，可以在浏览器里执行
 ![image](https://github.com/alyen028/audioTranscoder/blob/main/demo1.jpg)
 ![image](https://github.com/alyen028/audioTranscoder/blob/main/demo2.jpg)
 ![image](https://github.com/alyen028/audioTranscoder/blob/main/demo3.jpg)
-# 4 赞助👍👍👍
+# 5 若对你有用，赞助个喝咖啡的💰呗，😊😊
 ![image](https://github.com/alyen028/audioTranscoder/blob/main/sk.png)
